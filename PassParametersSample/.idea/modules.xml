@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PassParametersSample.iml" filepath="$PROJECT_DIR$/PassParametersSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassParametersSample/PassParametersSample-PassParametersSample.iml" filepath="$PROJECT_DIR$/PassParametersSample/PassParametersSample-PassParametersSample.iml" />
+    </modules>
+  </component>
+</project>
+
