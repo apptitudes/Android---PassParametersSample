@@ -32,7 +32,7 @@ public class CarDetailsFragment extends Fragment {
         TextView modelTV = (TextView) view.findViewById(R.id.model);
         TextView colorTV = (TextView) view.findViewById(R.id.color);
 
-        String brand = getArguments().getString("bundle");
+        String brand = getArguments().getString("brand");
         String model = getArguments().getString("model");
         String color = getArguments().getString("color");
 
